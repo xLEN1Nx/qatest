@@ -1,0 +1,32 @@
+
+#test {
+	color: yellowgreen;
+	background-color: black;
+	padding: 75px;
+	margin: 15px;
+	border: :7px solid grey;
+	border-radius: 100px;
+	opacity: 0.5;
+
+	
+	
+
+
+}
+body{
+
+background-image: url(Sight_2018_03_30_190533_802.jpg);
+}
+#test:hover{
+	opacity: 1;
+	box-shadow: 3px 3px 7px green;
+	transform: rotate(90deg)scale(2.0);
+
+
+	text-align: center;
+
+}
+#test:hover{
+	transform: rotate(45deg);
+	transition: 2s all;
+}
