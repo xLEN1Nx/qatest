@@ -6,8 +6,8 @@
 	margin: 15px;
 	border: :7px solid grey;
 	border-radius: 100px;
-	opacity: 0.5;
-
+	opacity: 1;
+text-align: center;
 	
 	
 
@@ -18,15 +18,11 @@ body{
 background-image: url(Sight_2018_03_30_190533_802.jpg);
 }
 #test:hover{
-	opacity: 1;
-	box-shadow: 3px 3px 7px green;
-	transform: translate(-50%, -50%);
+
+	box-shadow: 3px 3px 7px red;
+	
 
 
-	text-align: center;
+	
 
-}
-#test:hover{
-	transform: rotate(45deg);
-	transition: 2s all;
 }
