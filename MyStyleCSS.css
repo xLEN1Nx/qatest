@@ -20,7 +20,7 @@ background-image: url(Sight_2018_03_30_190533_802.jpg);
 #test:hover{
 	opacity: 1;
 	box-shadow: 3px 3px 7px green;
-	transform: rotate(90deg)scale(2.0);
+	transform: translate(-50%, -50%);
 
 
 	text-align: center;
